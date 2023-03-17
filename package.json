@@ -1,0 +1,19 @@
+{
+  "name": "ghostvillage",
+  "version": "1.0.0",
+  "description": "projecto de aprendizaje de paginas web en un ambiente vainilla ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanelf/GhostVillage.git"
+  },
+  "author": "zanelf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanelf/GhostVillage/issues"
+  },
+  "homepage": "https://github.com/zanelf/GhostVillage#readme"
+}
